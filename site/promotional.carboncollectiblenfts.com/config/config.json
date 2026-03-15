@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xFe3DBBc7299b84c0FC3151065AB80B4fCA795168",
+  "SCAN_LINK": "https://polygonscan.com/address/0xFe3DBBc7299b84c0FC3151065AB80B4fCA795168",
+  "NETWORK": {
+    "NAME": "POLYGON",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Carbon Collectible Promotional NFT",
+  "SYMBOL": "CCPN",
+  "MAX_SUPPLY": 20000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/carbon-collectible-promotional-nfts",
+  "SHOW_BACKGROUND": true
+}
